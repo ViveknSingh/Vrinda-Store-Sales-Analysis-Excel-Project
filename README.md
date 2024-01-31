@@ -9,10 +9,10 @@ Created a dashborad that consist of diffrent diffrent KPI's as per the demand.
 6. Relation between Age and Gender based on numbers of orders.
 7. Which channel is contribnuting to maximum sales?
 8. Highest selling category ?
-9. and after understanding the problem, we started with our analysis process that include
-10. 1) Data Cleaning- Removing duplicates, Null values, Setting data type, Correcting row values, etc.
-    2) Data Preparation- Grouping Data (Grouping by Age), Modifyng Data (Extracting month from date), Establishing relationship between columns, etc.
-    3) Data Analysis
-    4) Provide Insight
+And after understanding the problem, we started with our analysis process that include
+1) Data Cleaning- Removing duplicates, Null values, Setting data type, Correcting row values, etc.
+2) Data Preparation- Grouping Data (Grouping by Age), Modifyng Data (Extracting month from date), Establishing relationship between columns, etc.
+3) Data Analysis
+4) Provide Insight
 Hence sharing all the helpful insight with the stakeholders.
 To achieve there goal or aim 
