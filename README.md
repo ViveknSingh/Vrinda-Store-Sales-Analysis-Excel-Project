@@ -14,5 +14,7 @@ And after understanding the problem, we started with our analysis process that i
 2) Data Preparation- Grouping Data (Grouping by Age), Modifyng Data (Extracting month from date), Establishing relationship between columns, etc.
 3) Data Analysis
 4) Provide Insight
+
+   
 Hence sharing all the helpful insight with the stakeholders.
 To achieve there goal or aim 
